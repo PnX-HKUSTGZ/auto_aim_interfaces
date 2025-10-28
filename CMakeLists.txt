@@ -16,6 +16,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Armors.msg"
   "msg/Target.msg"
   "msg/Firecontrol.msg"
+  "msg/Car.msg"
+  "msg/Cars.msg"
 
   "msg/DebugLight.msg" 
   "msg/DebugLights.msg"
