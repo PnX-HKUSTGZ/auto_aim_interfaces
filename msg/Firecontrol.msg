@@ -5,6 +5,7 @@ float64 yaw_acc
 float64 pitch
 float64 pitch_vel
 float64 pitch_acc
+float64 distance
 float64 projected_x
 float64 projected_y
 bool tracking
